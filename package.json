@@ -1,6 +1,6 @@
 {
-  "name": "phatomjs-scraper",
-  "version": "1.0.0",
+  "name": "phantomjs-scraper",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
